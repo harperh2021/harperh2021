@@ -1,6 +1,6 @@
 #### Hi there 👋
-
-
+![Profile views](https://gpvc.arturio.dev/harper2021)    
+My name is Harper
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
