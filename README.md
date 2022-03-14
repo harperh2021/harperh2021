@@ -16,3 +16,6 @@ My name is Harper
 ## My Socials
 ![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)  HarperHolland#6969
 ![image](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)  https://www.facebook.com/harperrose2021
+
+## My Computer Specifications
+![image](https://img.shields.io/badge/-nVidia%201600GTX-brightgreen?style+for-the-badge&logo=nvidia&logoColor=white)
