@@ -18,4 +18,5 @@ My name is Harper
 ![image](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)  https://www.facebook.com/harperrose2021
 
 ## My Computer Specifications
-![image](https://img.shields.io/badge/-NVIDIA%20GTX%201650-brightgreen?style+for-the-badge&logo=nvidia&logoColor=white)
+![image](https://img.shields.io/badge/-NVIDIA%20GTX%201650-brightgreen?style=for-the-badge&logo=nvidia&logoColor=white)    
+![image](https://img.shields.io/badge/-INTEL%20CORE%20i5%209th%20Gen-blue?style=for-the-badge&logo=intel&logoColor=white)
